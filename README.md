@@ -46,29 +46,69 @@ Basically combines all shells into one program (CMD, PowerShell, whatever). Stil
 All-purpose editor. Very neat. Highly suggest you get.
 
 ### [PhpStorm](https://www.jetbrains.com/phpstorm/) ![Paid][Paid]
-### [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/)
+IDE for web development. I was originally not happy to switch from my other tools, because I thought PhpStorm was a bit clunky.
+
+But holy crap is this tool powerful. I manage my PHP code, SSH connections, and database all through this tool. Love this. It saved my butt multiple times.
+
+### [JetBrains Toolbox](https://www.jetbrains.com/toolbox/)
+To manage JetBrains software, a good compliment when you have their other software.
+
 ### [FileZilla](https://filezilla-project.org/) ![Open-Source][Open-Source]
+The best file transfer software for Windows. Is trash compared to the mac-only Transmit.
+
 ## Audio
+My audio related software. Both input and output.
+
 ### [Voicemeeter Potato](https://www.vb-audio.com/Voicemeeter/potato.htm) ![Paid][Paid]
 ### [Virual Audio Cable](https://www.vb-audio.com/Cable/index.htm) ![Upgrade][Upgrade]
 ### [Audio Router](https://github.com/audiorouterdev/audio-router) ![Open-Source][Open-Source]
 ### [Audacity](https://www.audacityteam.org/) ![Open-Source][Open-Source]
 Simple audio recording software
+
 ### [foobar2000](https://www.foobar2000.org/)
+When I need to play music files locally. Might switch back to classic Winamp though.
+
 ## Games
+I used to play a lot of games.
+
 ### [Steam](https://store.steampowered.com/about/)
+It's Steam.
+
 ### [GOG Galaxy](https://www.gog.com/galaxy)
+GOG (formerly Good Old Games) sells games DRM-free. When a developer publishes a game here, they know the risk of the game getting pirated. So often I'll buy a game here a second time. for teh lulz.
+
 ### [Discord](https://discord.com/)
+To communicate with my fellow games. Usually I'll just hang out and talk with friends.
+
 ## Other
+I couldn't really fit these into their own categories without making the category list only have about one to two items in it. So here we go.
+
 ### [AutoHotKey](https://www.autohotkey.com/)
+Insanely powerful, insanely flexibe, insanely stupid. Allows me to write custom scripts to "do things" with my compuer. I have a few always running scripts, which you can [view here](https://github.com/vladdeSV/my-ahk-scripts).
+
 ### [MailBird](https://www.getmailbird.com/) ![Paid][Paid]
-### [Spotify](https://www.spotify.com/en/download/mac/) ![Upgrade][Upgrade]
+I've tried a lot of mail clients, and nothing comes close to MailBird. Seriously.
+
+### [Spotify](https://www.spotify.com/en/download/windows/) ![Upgrade][Upgrade]
+I listen to music. I have Spotify Premium. Neat.
+
 ### [Folding@Home](https://foldingathome.org/)
+Unsure exactly, but I believe it's "simulating protein dynamics", to help researches cure cancer and other diseases (like COVID-19). I fold for the LTT group, and you can check me out [here](https://stats.foldingathome.org/donor/vladdeSV). 
+
 ### [7-Zip](https://www.7-zip.org/) ![Open-Source][Open-Source]
+ZIP software. It handles .zip, .rar, and .7z files. And it's free.
+
 ### [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
+Get information about your system.
+
 ### [HWiNFO](https://www.hwinfo.com/)
-### [qBittorrent](https://www.qbittorrent.org/) ![Open-Source][Open-Source]
+Get even more information about your system.
+
 ### [WinDirStat](https://windirstat.net/)
+Visualize all files and their sizes. Helps me track down large files and folders in my sytem.
+
+### [qBittorrent](https://www.qbittorrent.org/) ![Open-Source][Open-Source]
+Torrent client, for when you need to download GIMP by other means than direct download.
 
 ## License
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) © [Vladimirs Nordholm](https://github.com/vladdeSV)
