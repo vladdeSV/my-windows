@@ -44,3 +44,6 @@ My personal home PC. An open field for experimentation. Take a look at [vladdeSV
 ### [HWiNFO](https://www.hwinfo.com/)
 ### [qBittorrent](https://www.qbittorrent.org/) ![Open-Source][Open-Source]
 ### [WinDirStat](https://windirstat.net/)
+
+## License
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) © [Vladimirs Nordholm](https://github.com/vladdeSV)
