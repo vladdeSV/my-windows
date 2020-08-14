@@ -16,7 +16,7 @@ Faster and cheaper alternative to Adobe Photoshop. I don't work with photos, but
 ### [Affinity Designer](https://affinity.serif.com/en-us/designer/) ![Paid][Paid]
 Faster and cheaper alternative to Adobe Illustrator. Pretty nice to work with!
 
-The icons ![Paid][Paid]! [Upgrade][Upgrade] ![Open-Source][Open-Source] are all made with this program.
+The icons ![Paid][Paid] ![Upgrade][Upgrade] ![Open-Source][Open-Source] are all made with this program.
 
 ### [Affinity Publisher](https://affinity.serif.com/en-us/publisher/) ![Paid][Paid]
 Competitor for InDesign. I've never had to use it, but I bought it with the Affinity Photo and Affinity Designer.
@@ -57,13 +57,37 @@ To manage JetBrains software, a good compliment when you have their other softwa
 The best file transfer software for Windows. Is trash compared to the mac-only Transmit.
 
 ## Audio
-My audio related software. Both input and output.
+I have a somewhat advanced (read: stupid) audio setup at home. Let me walk you through it.
 
 ### [Voicemeeter Potato](https://www.vb-audio.com/Voicemeeter/potato.htm) ![Paid][Paid]
+This is the central core of whole audio setup.
+
+I have two speakers, and one microphone with audio output for my headphones. With Voicemeeter I can adjust the audio levels of the devices separately. Usually my speakers are muted, the the audio is always active through the microphone output. The volume keyboard buttons control the speaker volume, and the knob on the microphone itself decide the volume in my headphones.
+
+Now, the whole point of this is that I can pass through separate channels, meaning I can have my music only be played through my headphones.
+
+Once upon a time I wanted to record gameplay (yeah...) but I still wanted to listen to music while doing so. With this configuration I was able to do so (by also using Virtual Audio Cable and Audio Router).
+
+This was a long time ago, but I really liked the flexibility of the setup so I kept at it.
+
+Note: There are 3 versions of Voicemeeter; Voicemeeter, Voicemeeter Banana, and Voicemeeter Potato respectivelt. The first two variants are nagware, meaning you'll get an occasional popup to buy the software. I did not pay for this for a long time, but seeing how big part of my daily routine this was I did the right thing and bought the full, potato, version. 
+
 ### [Virual Audio Cable](https://www.vb-audio.com/Cable/index.htm) ![Upgrade][Upgrade]
+Adds "virtual" inputs/outputs. If you pass through audio through the virtual input it gets passed to the virtual output. This now acts as its own device. This meant when I recorded my gameplay I could have the audio play through a specific device, and not record that onto the video's audio track.
+
 ### [Audio Router](https://github.com/audiorouterdev/audio-router) ![Open-Source][Open-Source]
+As the final ingredient in the streaming mix. This allows me to change which output device programs are using.
+
+In combination with Voicemeeter, Virtual Audio Cable, and my recording software, I would do the following:
+
+1. Change Spotify output channel to Virtual Cable 1 (VA1).
+2. Make sure the recording software did not use VA1 when recording.
+3. Pass through VA1 into my headphones only.
+
+This meant I could record gameplay with gameplay audio on one track, my voice onto another, and finally have music played only through my headphones.
+
 ### [Audacity](https://www.audacityteam.org/) ![Open-Source][Open-Source]
-Simple audio recording software
+Simple audio recording software.
 
 ### [foobar2000](https://www.foobar2000.org/)
 When I need to play music files locally. Might switch back to classic Winamp though.
