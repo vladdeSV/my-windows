@@ -1,5 +1,5 @@
 # my-windows
-My personal home PC. An open field for experimentation. Take a look at [vladdeSV/my-mac](https://github.com/vladdeSV/my-mac)
+My personal home PC. An open field for experimentation. Take a look at [`vladdeSV/my-mac`](https://github.com/vladdeSV/my-mac)
 
 ![Paid][Paid] means the software requires a payment for continued usage. These come with a free trial.\
 ![Upgrade][Upgrade] means the software has a paid upgrade, but does not require a payment for continued usage.\
@@ -19,10 +19,10 @@ Faster and cheaper alternative to Adobe Illustrator. Pretty nice to work with!
 The icons ![Paid][Paid] ![Upgrade][Upgrade] ![Open-Source][Open-Source] are all made with this program.
 
 ### <img src="https://simpleicons.org/icons/affinitypublisher.svg" height="15">&nbsp;[Affinity Publisher](https://affinity.serif.com/en-us/publisher/) ![Paid][Paid]
-Competitor for InDesign. I've never had to use it, but I bought it with the Affinity Photo and Affinity Designer.
+Competitor for Adobe InDesign. I've never had to use it, but I bought it along with Affinity Photo and Affinity Designer.
 
 ### [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) ![Upgrade][Upgrade]
-The best substitute to Adobe Premiere. I use it because it's free, and because it's the best video editing alternative to Adobe Premiere.
+The best substitute to Adobe Premiere. I use it because it's free, and because I do not like Adobe.
 
 ### <img src="https://simpleicons.org/icons/blender.svg" height="15">&nbsp;[Blender](https://www.blender.org/) ![Open-Source][Open-Source]
 Awesome software for making 3D anything.
@@ -37,24 +37,24 @@ Hands down, the best Git client I've used. I even prefer this over the terminal.
 ### GameMaker: Studio 1.4 ![Paid][Paid]
 Can no longer be bought, but I'd like to have this in the list still.
 
-Stupid but powerful game making engine. I've made a couple small games with this. Also I started working on an extension to the standard library.
+Stupid but powerful game making engine. I've made a couple small games with this. Also I started working on an [extension to the standard library](https://github.com/vladdeSV/gm_extensions).
 
 ### [Microsoft Terminal](https://github.com/microsoft/terminal) ![Open-Source][Open-Source]
-Basically combines all shells into one program (CMD, PowerShell, whatever). Still buggy and I've run into issues with it. Still cool though, and I use it daily!
+Basically combines all shells into one window (CMD, PowerShell, whatever). It's buggy and I've run into issues with it. Still cool though, and I use it daily!
 
 ### <img src="https://simpleicons.org/icons/visualstudiocode.svg" height="15">&nbsp;[Visual Studio Code](https://code.visualstudio.com/) ![Open-Source][Open-Source]
 All-purpose editor. Very neat. Highly suggest you get.
 
 ### [PhpStorm](https://www.jetbrains.com/phpstorm/) ![Paid][Paid]
-IDE for web development. I was originally not happy to switch from my other tools, because I thought PhpStorm was a bit clunky.
+IDE for web development. I was originally not happy to switch from my other tools because I thought PhpStorm was a bit clunky.
 
-But holy crap is this tool powerful. I manage my PHP code, SSH connections, and database all through this tool. Love this. It saved my butt multiple times.
+But holy crap is this tool powerful. I manage my PHP code, website, SSH connections, and database all through this tool. Love this. It saved my butt multiple times.
 
 ### <img src="https://simpleicons.org/icons/jetbrains.svg" height="15">&nbsp;[JetBrains Toolbox](https://www.jetbrains.com/toolbox/)
-To manage JetBrains software, a good compliment when you have their other software.
+To manage JetBrains software. A good compliment when you use their other software.
 
 ### <img src="https://simpleicons.org/icons/filezilla.svg" height="15">&nbsp;[FileZilla](https://filezilla-project.org/) ![Open-Source][Open-Source]
-The best file transfer software for Windows. Is trash compared to the mac-only Transmit.
+The best file transfer software for Windows. It is trash compared to the mac-only Transmit.
 
 ## Audio
 I have a somewhat advanced (read: stupid) audio setup at home. Let me walk you through it.
@@ -70,7 +70,7 @@ Once upon a time I wanted to record gameplay (yeah...) but I still wanted to lis
 
 This was a long time ago, but I really liked the flexibility of the setup so I kept at it.
 
-Note: There are 3 versions of Voicemeeter; Voicemeeter, Voicemeeter Banana, and Voicemeeter Potato respectivelt. The first two variants are nagware, meaning you'll get an occasional popup to buy the software. I did not pay for this for a long time, but seeing how big part of my daily routine this was I did the right thing and bought the full, potato, version. 
+Note: There are 3 versions of Voicemeeter; Voicemeeter, Voicemeeter Banana, and Voicemeeter Potato respectively. The first two variants are nagware, meaning you'll get an occasional popup to buy the software. I did not pay for this for a long time, but seeing how big part of my daily routine this was I did the right thing and bought the full, potato, version. 
 
 ### [Virual Audio Cable](https://www.vb-audio.com/Cable/index.htm) ![Upgrade][Upgrade]
 Adds "virtual" inputs/outputs. If you pass through audio through the virtual input it gets passed to the virtual output. This now acts as its own device. This meant when I recorded my gameplay I could have the audio play through a specific device, and not record that onto the video's audio track.
@@ -105,7 +105,7 @@ GOG (formerly Good Old Games) sells games DRM-free. When a developer publishes a
 To communicate with my fellow games. Usually I'll just hang out and talk with friends.
 
 ## Other
-I couldn't really fit these into their own categories without making the category list only have about one to two items in it. So here we go.
+I couldn't really fit these into their own categories without making the category list only have one to two items in it. So here we go.
 
 ### [AutoHotKey](https://www.autohotkey.com/)
 Insanely powerful, insanely flexibe, insanely stupid. Allows me to write custom scripts to "do things" with my compuer. I have a few always running scripts, which you can [view here](https://github.com/vladdeSV/my-ahk-scripts).
@@ -117,7 +117,7 @@ I've tried a lot of mail clients, and nothing comes close to MailBird. Seriously
 I listen to music. I have Spotify Premium. Neat.
 
 ### [Folding@Home](https://foldingathome.org/)
-Unsure exactly, but I believe it's "simulating protein dynamics", to help researches cure cancer and other diseases (like COVID-19). I fold for the LTT group, and you can check me out [here](https://stats.foldingathome.org/donor/vladdeSV). 
+Unsure how exactly, but I believe it is "simulating protein dynamics" to help researches cure cancer and other diseases (like COVID-19). I fold for the LTT group, and you can check me out [here](https://stats.foldingathome.org/donor/vladdeSV). 
 
 ### [7-Zip](https://www.7-zip.org/) ![Open-Source][Open-Source]
 ZIP software. It handles .zip, .rar, and .7z files. And it's free.
