@@ -116,6 +116,9 @@ I've tried a lot of mail clients, and nothing comes close to MailBird. Seriously
 ### <img src="https://simpleicons.org/icons/spotify.svg" height="15">&nbsp;[Spotify](https://www.spotify.com/en/download/windows/) ![Upgrade][Upgrade]
 I listen to music. I have Spotify Premium. Neat.
 
+### <img src="https://simpleicons.org/icons/lastpass.svg" height="15">&nbsp;[LastPass](https://www.lastpass.com/) ![Upgrade][Upgrade]
+Keeps my passwords. Makes my life much easier. I use the free version. Available as an extension to webbrowsers, and as an app for phones.
+
 ### [Folding@Home](https://foldingathome.org/)
 Unsure how exactly, but I believe it is "simulating protein dynamics" to help researches cure cancer and other diseases (like COVID-19). I fold for the LTT group, and you can check me out [here](https://stats.foldingathome.org/donor/vladdeSV). 
 
