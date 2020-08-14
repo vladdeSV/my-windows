@@ -1,5 +1,5 @@
 # my-windows
-My personal home PC. An open field for experimentation. Take a look at [`vladdeSV/my-mac`](https://github.com/vladdeSV/my-mac)
+My personal home PC. An open field for experimentation. Take a look at [`vladdeSV/my-mac`](https://github.com/vladdeSV/my-mac).
 
 ![Paid][Paid] means the software requires a payment for continued usage. These come with a free trial.\
 ![Upgrade][Upgrade] means the software has a paid upgrade, but does not require a payment for continued usage.\
@@ -29,7 +29,7 @@ Awesome software for making 3D anything.
 
 ## Code
 ### <img src="https://simpleicons.org/icons/sublimetext.svg" height="15">&nbsp;[Sublime Text](https://www.sublimetext.com/) ![Paid][Paid]
-The text editor I've loved over the years for it's speed. It's fast. It has a wide range of features, but speed is the primary reason I use this. Other GUI editors compare slow to Sublime Text.
+The text editor I've loved over the years for its speed. It's fast. It has a wide range of features, but speed is the primary reason I use this. Other GUI editors compare slow to Sublime Text.
 
 ### [Sublime Merge](https://www.sublimemerge.com/) ![Paid][Paid]
 Hands down, the best Git client I've used. I even prefer this over the terminal.
@@ -40,7 +40,7 @@ Can no longer be bought, but I'd like to have this in the list still.
 Stupid but powerful game making engine. I've made a couple small games with this. Also I started working on an [extension to the standard library](https://github.com/vladdeSV/gm_extensions).
 
 ### [Microsoft Terminal](https://github.com/microsoft/terminal) ![Open-Source][Open-Source]
-Basically combines all shells into one window (CMD, PowerShell, whatever). It's buggy and I've run into issues with it. Still cool though, and I use it daily!
+Basically combines all shells into one window (CMD, PowerShell, whatever). It's buggy, and I've run into issues with it. Still cool though, and I use it daily!
 
 ### <img src="https://simpleicons.org/icons/visualstudiocode.svg" height="15">&nbsp;[Visual Studio Code](https://code.visualstudio.com/) ![Open-Source][Open-Source]
 All-purpose editor. Very neat. Highly suggest you get.
@@ -62,18 +62,18 @@ I have a somewhat advanced (read: stupid) audio setup at home. Let me walk you t
 ### [Voicemeeter Potato](https://www.vb-audio.com/Voicemeeter/potato.htm) ![Paid][Paid]
 This is the central core of whole audio setup.
 
-I have two speakers, and one microphone with audio output for my headphones. With Voicemeeter I can adjust the audio levels of the devices separately. Usually my speakers are muted, the the audio is always active through the microphone output. The volume keyboard buttons control the speaker volume, and the knob on the microphone itself decide the volume in my headphones.
+I have two speakers, and one microphone with audio output for my headphones. With Voicemeeter I can adjust the audio levels of the devices separately. Usually, my speakers are muted, then the audio is always active through the microphone output. The volume keyboard buttons control the speaker volume, and the knob on the microphone itself decide the volume in my headphones.
 
 Now, the whole point of this is that I can pass through separate channels, meaning I can have my music only be played through my headphones.
 
-Once upon a time I wanted to record gameplay (yeah...) but I still wanted to listen to music while doing so. With this configuration I was able to do so (by also using Virtual Audio Cable and Audio Router).
+Once upon a time I wanted to record gameplay (yeah...), but I still wanted to listen to music while doing so. With this configuration I was able to do so (by also using Virtual Audio Cable and Audio Router).
 
-This was a long time ago, but I really liked the flexibility of the setup so I kept at it.
+This was a long time ago, but I really liked the flexibility of the setup, so I kept at it.
 
 Note: There are 3 versions of Voicemeeter; Voicemeeter, Voicemeeter Banana, and Voicemeeter Potato respectively. The first two variants are nagware, meaning you'll get an occasional popup to buy the software. I did not pay for this for a long time, but seeing how big part of my daily routine this was I did the right thing and bought the full, potato, version. 
 
-### [Virual Audio Cable](https://www.vb-audio.com/Cable/index.htm) ![Upgrade][Upgrade]
-Adds "virtual" inputs/outputs. If you pass through audio through the virtual input it gets passed to the virtual output. This now acts as its own device. This meant when I recorded my gameplay I could have the audio play through a specific device, and not record that onto the video's audio track.
+### [Virtual Audio Cable](https://www.vb-audio.com/Cable/index.htm) ![Upgrade][Upgrade]
+Adds "virtual" inputs/outputs. If you pass through audio through the virtual input it is passed to the virtual output. This now acts as its own device. This meant when I recorded my gameplay I could have the audio play through a specific device and not have it recorded onto the video's audio track.
 
 ### [Audio Router](https://github.com/audiorouterdev/audio-router) ![Open-Source][Open-Source]
 As the final ingredient in the streaming mix. This allows me to change which output device programs are using.
@@ -108,7 +108,7 @@ To communicate with my fellow games. Usually I'll just hang out and talk with fr
 I couldn't really fit these into their own categories without making the category list only have one to two items in it. So here we go.
 
 ### [AutoHotKey](https://www.autohotkey.com/)
-Insanely powerful, insanely flexibe, insanely stupid. Allows me to write custom scripts to "do things" with my compuer. I have a few always running scripts, which you can [view here](https://github.com/vladdeSV/my-ahk-scripts).
+Insanely powerful, insanely flexible, insanely stupid. Allows me to write custom scripts to "do things" with my computer. I have a few always running scripts, which you can [view here](https://github.com/vladdeSV/my-ahk-scripts).
 
 ### [MailBird](https://www.getmailbird.com/) ![Paid][Paid]
 I've tried a lot of mail clients, and nothing comes close to MailBird. Seriously.
@@ -129,7 +129,7 @@ Get information about your system.
 Get even more information about your system.
 
 ### [WinDirStat](https://windirstat.net/)
-Visualize all files and their sizes. Helps me track down large files and folders in my sytem.
+Visualize all files and their sizes. Helps me track down large files and folders in my system.
 
 ### [qBittorrent](https://www.qbittorrent.org/) ![Open-Source][Open-Source]
 Torrent client, for when you need to download GIMP by other means than direct download.
