@@ -116,7 +116,7 @@ I've tried a lot of mail clients, and nothing comes close to MailBird. Seriously
 ### <img alt="" src="https://simpleicons.org/icons/spotify.svg" height="15">&nbsp;[Spotify](https://www.spotify.com/en/download/windows/) ![Upgrade][Upgrade]
 I listen to music. I have Spotify Premium. Neat.
 
-### <img alt="" src="https://simpleicons.org/icons/firefoxbrowser.svg" height="15">&nbsp;[Firefox](https://www.mozilla.org/en-US/firefox/browsers/)
+### <img alt="" src="https://simpleicons.org/icons/firefoxbrowser.svg" height="15">&nbsp;[Firefox](https://www.mozilla.org/en-US/firefox/browsers/) ![Open-Source][Open-Source]
 I was a long time user of Chrome, but switched to Firefox because I was a tiny bit fed up with the forced UI changes that came with Google Chrome version 69.
 
 I do have a litte bit of a soft spot for Mozilla though, so that might also be a reason to why I even bothered with the switch.
