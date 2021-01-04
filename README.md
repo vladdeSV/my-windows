@@ -151,5 +151,3 @@ Torrent client, for when you need to download GIMP by other means than direct do
 
 ## License
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) © [Vladimirs Nordholm](https://github.com/vladdeSV)
-
-App icons provided via [Simple Icons](https://github.com/simple-icons/simple-icons)
