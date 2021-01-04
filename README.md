@@ -116,10 +116,12 @@ I've tried a lot of mail clients, and nothing comes close to MailBird. Seriously
 ### [Spotify](https://www.spotify.com/en/download/windows/) ![Upgrade][Upgrade]
 I listen to music. I have Spotify Premium. Neat.
 
-### [Firefox](https://www.mozilla.org/en-US/firefox/browsers/) ![Open-Source][Open-Source]
-I was a long time user of Chrome, but switched to Firefox because I was a tiny bit fed up with the forced UI changes that came with Google Chrome version 69.
+### [Firefox Browser Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) ![Open-Source][Open-Source]
+Variant of Mozilla Firefox specfically for web-development. Not entirely sure what the differences are from the standard broweser, but I keep it as a second browser.
 
-I do have a litte bit of a soft spot for Mozilla though, so that might also be a reason to why I even bothered with the switch.
+I was a long time user of Google Chrome, but switched to Firefox because I was a tiny bit fed up with the forced UI changes that came with Google Chrome version 69 (not very nice).
+
+I do have a litte bit of a soft spot for Mozilla though.
 
 ### [LastPass](https://www.lastpass.com/) ![Upgrade][Upgrade]
 Keeps my passwords. Makes my life much easier. I use the free version. Available as an extension to webbrowsers, and as an app for phones.
