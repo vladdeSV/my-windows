@@ -102,7 +102,7 @@ It's Steam.
 GOG (formerly Good Old Games) sells games DRM-free. When a developer publishes a game here, they know the risk of the game getting pirated. So often I'll buy a game here a second time. for teh lulz.
 
 ### [Discord](https://discord.com/)
-To communicate with my fellow games. Usually I'll just hang out and talk with friends.
+To communicate with my fellow gamers. Usually I'll just hang out and talk with friends.
 
 ## Other
 I couldn't really fit these into their own categories without making the category list only have one to two items in it. So here we go.
