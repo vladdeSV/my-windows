@@ -128,8 +128,8 @@ I was a long time user of Google Chrome, but switched to Firefox because I was a
 
 I do have a litte bit of a soft spot for Mozilla though.
 
-### [LastPass](https://www.lastpass.com/) ![Upgrade][Upgrade]
-Keeps my passwords. Makes my life much easier. I use the free version. Available as an extension to webbrowsers, and as an app for phones.
+### [1Password](https://1password.com/) ![Paid][Paid]
+Keeps my passwords. Makes my life much easier. Available as an extension to webbrowsers, and as an app for phones.
 
 ### [Folding@Home](https://foldingathome.org/)
 Unsure how exactly, but I believe it is "simulating protein dynamics" to help researches cure cancer and other diseases (like COVID-19). I fold for the LTT group, and you can check me out [here](https://stats.foldingathome.org/donor/vladdeSV). 
