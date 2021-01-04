@@ -116,6 +116,11 @@ I've tried a lot of mail clients, and nothing comes close to MailBird. Seriously
 ### [Spotify](https://www.spotify.com/en/download/windows/) ![Upgrade][Upgrade]
 I listen to music. I have Spotify Premium. Neat.
 
+### [Microsoft Edge](https://www.microsoft.com/en-us/edge)
+I never liked Microsoft Edge, but after they switched to using Chromium and I gave it a go, it turned out I like it far more than any other browser.
+
+If I were to describe it, I would say it combined the good parts from Google Chrome and Mozilla Firefox.
+
 ### [Firefox Browser Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) ![Open-Source][Open-Source]
 Variant of Mozilla Firefox specfically for web-development. Not entirely sure what the differences are from the standard broweser, but I keep it as a second browser.
 
