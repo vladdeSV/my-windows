@@ -70,7 +70,7 @@ Once upon a time I wanted to record gameplay (yeah...), but I still wanted to li
 
 This was a long time ago, but I really liked the flexibility of the setup, so I kept at it.
 
-Note: There are 3 versions of Voicemeeter; Voicemeeter, Voicemeeter Banana, and Voicemeeter Potato respectively. The first two variants are nagware, meaning you'll get an occasional popup to buy the software. I did not pay for this for a long time, but seeing how big part of my daily routine this was I did the right thing and bought the full, potato, version. 
+Note: There are 3 versions of Voicemeeter; Voicemeeter, Voicemeeter Banana, and Voicemeeter Potato respectively. The first two variants are nagware, meaning you'll get an occasional popup to buy the software. I did not pay for this for a long time, but seeing how big part of my daily routine this was I did the right thing and bought the full, potato, version.
 
 ### [Virtual Audio Cable](https://www.vb-audio.com/Cable/index.htm) ![Upgrade][Upgrade]
 Adds "virtual" inputs/outputs. If you pass through audio through the virtual input it is passed to the virtual output. This now acts as its own device. This meant when I recorded my gameplay I could have the audio play through a specific device and not have it recorded onto the video's audio track.
@@ -132,7 +132,7 @@ I do have a litte bit of a soft spot for Mozilla though.
 Keeps my passwords. Makes my life much easier. Available as an extension to webbrowsers, and as an app for phones.
 
 ### [Folding@Home](https://foldingathome.org/)
-Unsure how exactly, but I believe it is "simulating protein dynamics" to help researches cure cancer and other diseases (like COVID-19). I fold for the LTT group, and you can check me out [here](https://stats.foldingathome.org/donor/vladdeSV). 
+Unsure how exactly, but I believe it is "simulating protein dynamics" to help researches cure cancer and other diseases (like COVID-19). I fold for the LTT group, and you can check me out [here](https://stats.foldingathome.org/donor/vladdeSV).
 
 ### [7-Zip](https://www.7-zip.org/) ![Open-Source][Open-Source]
 ZIP software. It handles .zip, .rar, and .7z files. And it's free.
