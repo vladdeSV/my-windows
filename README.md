@@ -134,6 +134,11 @@ Keeps my passwords. Makes my life much easier. Available as an extension to webb
 ### [Folding@Home](https://foldingathome.org/)
 Unsure how exactly, but I believe it is "simulating protein dynamics" to help researches cure cancer and other diseases (like COVID-19). I fold for the LTT group, and you can check me out [here](https://stats.foldingathome.org/donor/vladdeSV).
 
+### [HxD](https://mh-nexus.de/en/hxd/)
+> HxD is a [...] hex editor
+
+It's free, it works, and I like it.
+
 ### [7-Zip](https://www.7-zip.org/) ![Open-Source][Open-Source]
 ZIP software. It handles .zip, .rar, and .7z files. And it's free.
 
