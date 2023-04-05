@@ -40,7 +40,7 @@ Can no longer be bought, but I'd like to have this in the list still.
 Stupid but powerful game making engine. I've made a couple small games with this. Also I started working on an [extension to the standard library](https://github.com/vladdeSV/gm_extensions).
 
 ### [Microsoft Terminal](https://github.com/microsoft/terminal) ![Open-Source][Open-Source]
-Basically combines all shells into one window (CMD, PowerShell, whatever). It's buggy, and I've run into issues with it. Still cool though, and I use it daily!
+Combines all shells into one window (WSL, CMD, PowerShell, etc).
 
 ### [Visual Studio Code](https://code.visualstudio.com/) ![Open-Source][Open-Source]
 All-purpose editor. Very neat. Highly suggest you get.
