@@ -10,16 +10,16 @@ My personal home PC. An open field for experimentation. Take a look at [`vladdeS
 [Open-Source]: /resource/open-source.svg "Open-source sofware"
 
 ## Creative
-### [Affinity Photo](https://affinity.serif.com/en-us/photo/) ![Paid][Paid]
-Faster and cheaper alternative to Adobe Photoshop. I don't work with photos, but this covers everything I need.
+### [Affinity Photo 2](https://affinity.serif.com/en-us/photo/) ![Paid][Paid]
+Faster and cheaper alternative to Adobe Photoshop. I don't usually work with photos, but this covers everything I need.
 
-### [Affinity Designer](https://affinity.serif.com/en-us/designer/) ![Paid][Paid]
+### [Affinity Designer 2](https://affinity.serif.com/en-us/designer/) ![Paid][Paid]
 Faster and cheaper alternative to Adobe Illustrator. Pretty nice to work with!
 
 The icons ![Paid][Paid] ![Upgrade][Upgrade] ![Open-Source][Open-Source] are all made with this program.
 
-### [Affinity Publisher](https://affinity.serif.com/en-us/publisher/) ![Paid][Paid]
-Competitor for Adobe InDesign. I've never had to use it, but I bought it along with Affinity Photo and Affinity Designer.
+### [Affinity Publisher 2](https://affinity.serif.com/en-us/publisher/) ![Paid][Paid]
+Competitor for Adobe InDesign. I used it to create easily printable [PDF's for cards from Inscryption](https://cards.vladde.me/).
 
 ### [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) ![Upgrade][Upgrade]
 The best substitute to Adobe Premiere. I use it because it's free, and because I do not like Adobe.
