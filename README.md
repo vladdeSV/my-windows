@@ -45,14 +45,6 @@ Combines all shells into one window (WSL, CMD, PowerShell, etc).
 ### [Visual Studio Code](https://code.visualstudio.com/) ![Open-Source][Open-Source]
 All-purpose editor. Very neat. Highly suggest you get.
 
-### [PhpStorm](https://www.jetbrains.com/phpstorm/) ![Paid][Paid]
-IDE for web development. I was originally not happy to switch from my other tools because I thought PhpStorm was a bit clunky.
-
-But holy crap is this tool powerful. I manage my PHP code, website, SSH connections, and database all through this tool. Love this. It saved my butt multiple times.
-
-### [JetBrains Toolbox](https://www.jetbrains.com/toolbox/)
-To manage JetBrains software. A good compliment when you use their other software.
-
 ### [FileZilla](https://filezilla-project.org/) ![Open-Source][Open-Source]
 The best file transfer software for Windows. It is trash compared to the mac-only Transmit.
 
