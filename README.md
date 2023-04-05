@@ -148,7 +148,7 @@ Get information about your system.
 ### [HWiNFO](https://www.hwinfo.com/)
 Get even more information about your system.
 
-### [WinDirStat](https://windirstat.net/)
+### [WizTree](https://diskanalyzer.com/)
 Visualize all files and their sizes. Helps me track down large files and folders in my system.
 
 ### [qBittorrent](https://www.qbittorrent.org/) ![Open-Source][Open-Source]
