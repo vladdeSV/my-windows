@@ -144,7 +144,7 @@ Get even more information about your system.
 Visualize all files and their sizes. Helps me track down large files and folders in my system.
 
 ### [qBittorrent](https://www.qbittorrent.org/) ![Open-Source][Open-Source]
-Torrent client, for when you need to download GIMP by other means than direct download.
+Torrent client, for when you need to download GIMP or Linux ISO's by other means than direct download.
 
 ## License
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) © [Vladimirs Nordholm](https://github.com/vladdeSV)
